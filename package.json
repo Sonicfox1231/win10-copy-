@@ -1,0 +1,15 @@
+{
+  "name": "my-windows-10-application",
+  "version": "1.0.0",
+  "description": "Description of the project.",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
